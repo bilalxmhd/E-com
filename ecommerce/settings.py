@@ -24,7 +24,7 @@ TEMP_DIR = BASE_DIR / "templates"
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
- SECRET_KEY = config('SECRET_KEY')
+ SECRET_KEY = django-insecure--v@z$70w*_ms8r^il36yhfgvt!6qq751_$nl@*v03&%%5g6x72
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
